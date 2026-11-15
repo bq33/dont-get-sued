@@ -10,7 +10,7 @@ Run **Don't Get Sued** with your Lovable apps and coding agents to identify avoi
 
 ## Independent standalone project
 
-This is a separate, open-source repository. It does not depend on Design Critic or any employer/private source materials.
+This is a separate, open-source repository with no dependencies on any other skill, repository, or employer-private source materials.
 
 - **58 evidence-first risk controls**: original 34 plus 24 privacy enhancements.
 - **Six local MCP tools** for planning, jurisdiction-specific privacy reviews, evidence triage, source-pattern signals and counsel handoff.
